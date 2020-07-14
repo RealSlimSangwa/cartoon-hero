@@ -1,21 +1,21 @@
 body{
 	margin: 0;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: 'Permanent Marker', cursive;
 	font-size: 20px;
 	line-height: 30px;
 }
 header{
-	background-color: white;
+	background-color: black;
 	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 20px;
 }
 header h1 {
-	color: black;
+	color: limegreen;
 }
 header img{
 	border-radius: 150px;
-	border: 10px solid limegreen;
+	border: 15px solid limegreen;
 }
 main{
 	max-width: 800px;
