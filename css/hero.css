@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	font-family: 'Permanent Marker', cursive;
-	font-size: 20px;
+	font-size: 25px;
 	line-height: 30px;
 }
 header{
@@ -14,7 +14,7 @@ header h1 {
 	color: limegreen;
 }
 header img{
-	border-radius: 150px;
+	border-radius: 200px;
 	border: 15px solid limegreen;
 }
 main{
@@ -27,7 +27,7 @@ main img{
 }
 h2{
 	font-size: 35px;
-	color: grey;
+	color: limegreen;
 }
 a {
 	color: black;
@@ -49,8 +49,14 @@ footer a{
 footer a:hover{
 	background-color: black;
 }
+ol{
+	font-size: 25px
+}
+ul{
+	font-size: 25px
+}
 p.caption{
-	color: silver;
-	font-style: italic;
+	font-size: 15px;
 	margin-top: 0px;
+	color: grey;
 }
